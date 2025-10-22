@@ -1,0 +1,7 @@
+{
+  "name": "AI Smart Grid Guardian",
+  "description": "A gamified dashboard for analyzing and managing a smart light grid, featuring real-time monitoring, performance analytics, and AI-powered insights from Gemini.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
